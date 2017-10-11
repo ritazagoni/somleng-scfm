@@ -1,4 +1,9 @@
-# somleng-scfm
+# somleng-scfm-avf
+
+## DEPRECATION NOTICE
+
+This fork is no longer active. If you're looking for the African Voices Foundation fork of [Somleng SCFM](https://github.com/somleng/somleng-scfm) please use [this fork](https://github.com/dwilkie/somleng-scfm-avf) instead.
+
 
 [![Build Status](https://travis-ci.org/somleng/somleng-scfm.svg?branch=master)](https://travis-ci.org/somleng/somleng-scfm)
 [![Test Coverage](https://codeclimate.com/github/somleng/somleng-scfm/badges/coverage.svg)](https://codeclimate.com/github/somleng/somleng-scfm/coverage)
